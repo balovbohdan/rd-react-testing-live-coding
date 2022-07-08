@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it renders 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <header
+      class="App-header"
+    >
+      <p>
+        <img
+          alt="logo"
+          class="App-logo"
+          src="logo.svg"
+        />
+        Edit 
+        <code>
+          src/App.tsx
+        </code>
+         and save to reload. Count: 
+        0
+        <button>
+          Increment
+        </button>
+      </p>
+      <a
+        class="App-link"
+        href="https://reactjs.org"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Learn React
+      </a>
+    </header>
+    uuid_v4
+  </div>
+</div>
+`;
